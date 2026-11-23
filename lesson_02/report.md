@@ -4,11 +4,11 @@
 Скриншоты загрузите в `screenshots/` с указанными ниже именами.
 Ссылки на снимки уже готовы — не удаляйте их.
 
-Репозиторий: [[ССЫЛКА_НА_СВОЙ_РЕПОЗИТОРИЙ]]
-Проект: [[ССЫЛКА_НА_СВОЙ_ПРОЕКТ_БИТРИКС24]]
-Задача 1: [[ССЫЛКА_НА_ЗАДАЧУ_О_ПРАВИЛАХ]]
-Задача 2: [[ССЫЛКА_НА_ЗАДАЧУ_О_КАРТОЧКЕ]]
-Задача 3: [[ССЫЛКА_НА_ЗАДАЧУ_О_ПРОВЕРКАХ]]
+Репозиторий: `https://github.com/Ekik134/project-management`
+Проект: `https://b24-jaumjw.bitrix24.ru/online/?IM_COLLAB=chat7`
+Задача 1: `https://b24-jaumjw.bitrix24.ru/company/personal/user/1/tasks/task/view/1/`
+Задача 2: `https://b24-jaumjw.bitrix24.ru/company/personal/user/1/tasks/task/view/3/`
+Задача 3: `https://b24-jaumjw.bitrix24.ru/company/personal/user/1/tasks/task/view/5/`
 
 ## 1. Проект
 
