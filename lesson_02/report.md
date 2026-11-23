@@ -5,9 +5,13 @@
 Ссылки на снимки уже готовы — не удаляйте их.
 
 Репозиторий: `https://github.com/Ekik134/project-management`
-Проект: `https://b24-jaumjw.bitrix24.ru/online/?IM_COLLAB=chat7`
+
+Проект: `https://b24-jaumjw.bitrix24.ru/workgroups/`
+
 Задача 1: `https://b24-jaumjw.bitrix24.ru/company/personal/user/1/tasks/task/view/1/`
+
 Задача 2: `https://b24-jaumjw.bitrix24.ru/company/personal/user/1/tasks/task/view/3/`
+
 Задача 3: `https://b24-jaumjw.bitrix24.ru/company/personal/user/1/tasks/task/view/5/`
 
 ## 1. Проект
