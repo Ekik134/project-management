@@ -1,10 +1,10 @@
 # Отчёт. Уточняем требования
 
-Репозиторий: `https://github.com/Ekik134/project-management`
+Репозиторий: https://github.com/Ekik134/project-management
 
-Проект: `https://b24-5gm92s.bitrix24.ru/online/?IM_COLLAB=chat5`
+Проект: https://b24-5gm92s.bitrix24.ru/online/?IM_COLLAB=chat5
 
-Задача: `https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/7/`
+Задача: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/7/
 
 ## Скриншоты
 
