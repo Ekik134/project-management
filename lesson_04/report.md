@@ -1,16 +1,14 @@
 # Отчёт. От требований к плану работ
 
-Замените `[[...]]` своими ссылками. Снимки загрузите в `screenshots/`.
+Репозиторий: https://github.com/Ekik134/project-management
 
-Репозиторий: [[ССЫЛКА_НА_СВОЙ_РЕПОЗИТОРИЙ]]
+Проект: https://b24-5gm92s.bitrix24.ru/online/?IM_COLLAB=chat5
 
-Проект: [[ССЫЛКА_НА_СВОЙ_ПРОЕКТ]]
+Источник требований: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/7/
 
-Источник требований: [[ССЫЛКА_НА_ЗАДАЧУ_ТЕМЫ_3]]
+Общая задача: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/9/
 
-Общая задача: [[ССЫЛКА_НА_ОБЩУЮ_ЗАДАЧУ]]
-
-А1: [[ССЫЛКА_НА_А1]]
+А1: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/11/
 
 А2: [[ССЫЛКА_НА_А2]]
 

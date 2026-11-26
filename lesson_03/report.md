@@ -6,6 +6,7 @@
 
 Задача: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/7/
 
+
 ## Скриншоты
 
 - [Вопросы в чате](screenshots/01-questions.png)
