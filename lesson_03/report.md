@@ -4,7 +4,7 @@
 
 Проект: `https://b24-5gm92s.bitrix24.ru/online/?IM_COLLAB=chat5`
 
-Задача: [[ССЫЛКА_НА_ЗАДАЧУ_О_ПРОВЕРКАХ]]
+Задача: `https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/7/`
 
 ## Скриншоты
 
