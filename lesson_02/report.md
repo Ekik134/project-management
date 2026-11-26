@@ -1,14 +1,14 @@
 # Отчёт по теме 2. Проект, задача и результат
 
-Репозиторий: `https://github.com/Ekik134/project-management`
+Репозиторий: https://github.com/Ekik134/project-management
 
-Проект: `https://b24-5gm92s.bitrix24.ru/online/?IM_COLLAB=chat5`
+Проект: https://b24-5gm92s.bitrix24.ru/online/?IM_COLLAB=chat5
 
-Задача 1: `https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/1/`
+Задача 1: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/1/
 
-Задача 2: `https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/5/`
+Задача 2: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/5/
 
-Задача 3: `https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/7/`
+Задача 3: https://b24-5gm92s.bitrix24.ru/company/personal/user/1/tasks/task/view/7/
 
 ## Скриншоты
 
